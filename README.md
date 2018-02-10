@@ -1,6 +1,6 @@
 # AllBengalNews
 
-![](./screenshot1.jpeg =100x20)
+![ScreenShot](/screenshot1.jpeg) 
 
 
 ![ScreenShot](/screenshot2.jpeg)  
