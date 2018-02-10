@@ -1,6 +1,6 @@
 # AllBengalNews
 
-![ScreenShot](/screenshot1.jpeg)  
+![ScreenShot](/image1.jpeg)  
 
 
-![ScreenShot](/screenshot2.jpeg)  
+![ScreenShot](/image2.jpeg)  
