@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a87c043129c8da12c26cc6d693f89656003d086c">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6a1ee22460ae7925466822b79171fb51c3ff1ad0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/pre-dexed/release/library-2.4.0_90b88fe66b04e19b7c9b310459f3fb25d383a3a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_90b88fe66b04e19b7c9b310459f3fb25d383a3a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/d139608fecb689f58a24896cd059c008ef69d037/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5c01654c2cc34ae964766a85e34daabbd18a2a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/4b24be5c13aaf7bbb63a4e6d2504ca22994f75a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35478d83acfbb394b4ed2c7ba26781d74979525c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/4b24be5c13aaf7bbb63a4e6d2504ca22994f75a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/pre-dexed/release/classes_35478d83acfbb394b4ed2c7ba26781d74979525c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/c41b998fc8d341d68781f52e0b2ea8f624d3bb1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c257801a8f17ba722a2658c3f4e799c395c5bc0">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/pre-dexed/release/classes_015e68106cc027db83e5406f3c975977c11e8b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/161634216e0db2250dfe14c85c3588f299bab29b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79d618ba6bd0d7e61f5cb8c3a958cde5cf02efcd">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/pre-dexed/release/classes_69800b5af98f9c7d95cac0d20ed14e81608274bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/d139608fecb689f58a24896cd059c008ef69d037/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/pre-dexed/release/classes_d5c01654c2cc34ae964766a85e34daabbd18a2a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/161634216e0db2250dfe14c85c3588f299bab29b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79d618ba6bd0d7e61f5cb8c3a958cde5cf02efcd">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69800b5af98f9c7d95cac0d20ed14e81608274bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/c41b998fc8d341d68781f52e0b2ea8f624d3bb1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c257801a8f17ba722a2658c3f4e799c395c5bc0">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_015e68106cc027db83e5406f3c975977c11e8b15/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.gradle/caches/modules-2/files-2.1/com.thefinestartist/annotations/0.9.0/b69d23b00ca5fd30feea91ab4b24a192d6b928ef/annotations-0.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b69d23b00ca5fd30feea91ab4b24a192d6b928ef">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/pre-dexed/release/annotations-0.9.0_14ee397ddbdd3638386f03bf512c8a8b99b66725.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.gradle/caches/modules-2/files-2.1/com.thefinestartist/annotations/0.9.0/b69d23b00ca5fd30feea91ab4b24a192d6b928ef/annotations-0.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b69d23b00ca5fd30feea91ab4b24a192d6b928ef">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-0.9.0_14ee397ddbdd3638386f03bf512c8a8b99b66725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/AllBengalNews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1dc71adfeb777110e0232c50dfbb6c0431bfe056/classes.dex" />
+    </item>
+
+</items>
