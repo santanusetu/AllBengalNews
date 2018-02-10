@@ -1,3 +1,3 @@
 # AllBengalNews
 
-![ScreenShot](/image1.jpeg)         ![ScreenShot](/image2.jpeg)  
+![ScreenShot](/image1.jpeg)    &nbsp;&nbsp;&nbsp;&nbsp;     ![ScreenShot](/image2.jpeg)  
